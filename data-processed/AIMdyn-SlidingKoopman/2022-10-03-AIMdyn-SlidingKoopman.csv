@@ -1,0 +1,9 @@
+,forecast_date,target,target_end_date,location,type,quantile,value
+0,2022-10-03,1 wk ahead inc death,2022-10-08,US,point,,3045.491165084106
+1,2022-10-03,2 wk ahead inc death,2022-10-08,US,point,,2877.87403411002
+2,2022-10-03,3 wk ahead inc death,2022-10-08,US,point,,2803.255548490319
+3,2022-10-03,4 wk ahead inc death,2022-10-08,US,point,,2737.3477518097948
+4,2022-10-03,1 wk ahead inc case,2022-10-08,US,point,,290973.5115206436
+5,2022-10-03,2 wk ahead inc case,2022-10-08,US,point,,259554.6289398542
+6,2022-10-03,3 wk ahead inc case,2022-10-08,US,point,,231691.2941497019
+7,2022-10-03,4 wk ahead inc case,2022-10-08,US,point,,200313.89964347947
